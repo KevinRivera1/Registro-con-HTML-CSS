@@ -2,7 +2,9 @@
 
 Este es un formulario de registro de usuario simple implementado en HTML y JavaScript.
 
-![registro](./img/registro.png)
+ <div align="center">
+    <img src="./img/registro.png">
+ </div>
 
 
 ## Contenido
